@@ -1,2 +1,2 @@
 # ChattySockets
-A (somewhat) secure open source messanging app
+A (somewhat) secure open source messaging app
